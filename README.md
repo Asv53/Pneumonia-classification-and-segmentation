@@ -22,4 +22,4 @@ albumentations
 pydicom
 PIL
 ### Extract the datasets and place in appropriate folders
-## Code is available in project-final.ipynb file.
+## Code is available in project - final.ipynb file.
